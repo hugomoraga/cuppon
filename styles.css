@@ -1,0 +1,31 @@
+html, body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-box {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.correo-box {
+    display: flex;
+    background: #28a745;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-left: none;
+    padding-right: none;
+
+}
+
+.footer-box {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
